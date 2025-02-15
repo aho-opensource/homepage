@@ -1,18 +1,99 @@
 site_name: AHO Open Source
 site_url: https://aho-opensource.github.io
-#site_description: 
-#site_author: 
+site_description: Open Source into The Oslo School of Architecture and Design
+site_author: karamellpelle
 #repo_url: https://github.com/aho-opensource/aho-opensource.github.io
-extra_css: 
-  - stylesheets/extra.css
+
+nav:
+  - index.md
+  - "Software":
+      - "System":  software#system
+      - "CAD":     software#cad
+      - "Graphic": software#graphic
+      - "Video":   software#video
+      - "Audio":   software#audio
+      - "Web":     software#web
+      - "Office":  software#office
+      - "Tools":   software#tools
+  - "Assets":
+    - "Icons": assets#icons
+    - "Fonts": assets#fonts
+    - "Vectors": assets#vectors
+    - "3D-models": assets#3d-models
+    - "Textures": assets#textures
+    - "Photos": assets#photos
+    - "Sound": assets#sound
+    - "Music": assets#music
+    - "Data": assets#data
+    #- "": assets#
+  - "Study Programmes":
+    - programmes/architecture.md
+    - programmes/design.md
+    - programmes/landscape_architecture.md
+  #- about.md
+  - todo.md
 
 plugins:
   - search
   - tags
-  #- meta # this is not Materials Insider anymore!
+  #- meta # this is not Materials Insider anymore, so add this soon
 
-#nav:
 #extra:  
+
+theme:
+    name: material
+
+    logo: assets/ahopen-logo.svg
+    favicon: images/ahopen-favicon.svg
+
+    features:
+        - content.tabs.link # link tab selection on page
+        - navigation.footer
+        - navigation.tracker
+        #- navigation.expand
+        - toc.follow
+        #- navigation.indexes
+
+    icon:
+      annotation: material/tooltip-text
+
+      #admonition:
+      #    note: octicons/tag-16
+      #    abstract: octicons/checklist-16
+      #    info: octicons/info-16
+      #    tip: octicons/squirrel-16
+      #    success: octicons/check-16
+      #    question: octicons/question-16
+      #    warning: octicons/alert-16
+      #    failure: octicons/x-circle-16
+      #    danger: octicons/zap-16
+      #    bug: octicons/bug-16
+      #    example: octicons/beaker-16
+      #    quote: octicons/quote-16
+
+    palette:
+
+      - media: "(prefers-color-scheme)"
+        toggle:
+          icon: material/weather-night
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: green
+        accent: deep orange
+        toggle:
+          icon: material/weather-night
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: green
+        accent: deep orange
+        toggle: 
+          icon: material/lightbulb-on
+          name: Switch to light mode
+
+extra_css: 
+  - stylesheets/extra.css
 
 markdown_extensions:
   - tables
@@ -42,51 +123,3 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-theme:
-    name: material
-
-    logo: assets/ahopen-logo.svg
-    favicon: images/ahopen-favicon.svg
-
-    features:
-        - content.tabs.link # link tab selection on page
-        - navigation.footer
-
-    icon:
-      annotation: material/tooltip-text
-
-      #admonition:
-      #    note: octicons/tag-16
-      #    abstract: octicons/checklist-16
-      #    info: octicons/info-16
-      #    tip: octicons/squirrel-16
-      #    success: octicons/check-16
-      #    question: octicons/question-16
-      #    warning: octicons/alert-16
-      #    failure: octicons/x-circle-16
-      #    danger: octicons/zap-16
-      #    bug: octicons/bug-16
-      #    example: octicons/beaker-16
-      #    quote: octicons/quote-16
-
-    palette:
-
-      #- media: "(prefers-color-scheme)"
-      #  toggle:
-      #    icon: material/brightness-auto
-      #    name: Switch to dark mode
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
-        primary: green
-        accent: deep orange
-        toggle: 
-          icon: material/weather-night
-          name: Switch to light mode
-
-      - media: "(prefers-color-scheme: light)"
-        scheme: default
-        primary: green
-        accent: deep orange
-        toggle:
-          icon: material/weather-sunny
-          name: Switch to dark mode

@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+---
+title: Welcome!
+#subtitle: 
+#description: 
+#icon: 
+#status:
+#template: 
+hide: toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome to AHO Open Source!
 
-## Commands
+## Program pages
+<div class="grid cards" markdown>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [:material-home-city-outline:{ .lg .middle } **Architecture**](programmes/architecture.md)
 
-## Project layout
+- [:fontawesome-solid-pen-ruler:{ .lg .middle } **Design**](programmes/design.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [:fontawesome-solid-tree-city:{ .lg .middle } **Landscape Architecture**](programmes/lanscape_architecture.md)
+
+</div>
