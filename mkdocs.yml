@@ -46,6 +46,7 @@ theme:
     name: material
 
     logo: assets/ahopen-logo.svg
+    favicon: images/ahopen-favicon.svg
 
     features:
         - content.tabs.link # link tab selection on page
