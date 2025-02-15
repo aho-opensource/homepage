@@ -2,7 +2,9 @@
 title: Design
 #subtitle: 
 #description: 
-#icon: 
+icon: fontawesome/solid/pen-ruler
 #status:
 #template: 
 ---
+
+# Design

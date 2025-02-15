@@ -2,7 +2,9 @@
 title: Architecture
 #subtitle: 
 #description: 
-#icon: 
+icon: material/home-city-outline
 #status:
 #template: 
 ---
+
+# Architecture

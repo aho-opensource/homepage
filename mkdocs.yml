@@ -1,8 +1,9 @@
 site_name: AHO Open Source
 site_url: https://aho-opensource.github.io
-site_description: Open Source into The Oslo School of Architecture and Design
+site_description: Freedom for The Oslo School of Architecture and Design
 site_author: karamellpelle
-#repo_url: https://github.com/aho-opensource/aho-opensource.github.io
+repo_url: https://github.com/aho-opensource/homepage
+repo_name: aho-opensource/homepage
 
 nav:
   - index.md
@@ -31,7 +32,7 @@ nav:
     - programmes/design.md
     - programmes/landscape_architecture.md
   #- about.md
-  - todo.md
+  #- todo.md
 
 plugins:
   - search
@@ -43,7 +44,7 @@ plugins:
 theme:
     name: material
 
-    logo: assets/ahopen-logo.svg
+    logo: images/ahopen-logo.svg
     favicon: images/ahopen-favicon.svg
 
     features:

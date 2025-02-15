@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 #subtitle: 
-#description: 
+description: Information about AHO Open Source
 #icon: 
 #status:
 #template: 
@@ -13,10 +13,10 @@ hide: toc
 ## Program pages
 <div class="grid cards" markdown>
 
-- [:material-home-city-outline:{ .lg .middle } **Architecture**](programmes/architecture.md)
+- [:material-home-city-outline: **Architecture**](programmes/architecture.md)
 
-- [:fontawesome-solid-pen-ruler:{ .lg .middle } **Design**](programmes/design.md)
+- [:fontawesome-solid-pen-ruler: **Design**](programmes/design.md)
 
-- [:fontawesome-solid-tree-city:{ .lg .middle } **Landscape Architecture**](programmes/lanscape_architecture.md)
+- [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/lanscape_architecture.md)
 
 </div>

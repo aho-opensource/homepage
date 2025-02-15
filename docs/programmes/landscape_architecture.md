@@ -2,7 +2,9 @@
 title: Landscape Architecture
 #subtitle: 
 #description: 
-#icon: 
+icon: fontawesome/solid/tree-city
 #status:
 #template: 
 ---
+
+# Landscape Architecture
