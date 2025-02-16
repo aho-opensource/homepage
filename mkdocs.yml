@@ -8,14 +8,15 @@ repo_name: aho-opensource/homepage
 nav:
   - index.md
   - "Software":
-      - "System":  software#system
-      - "CAD":     software#cad
-      - "Graphic": software#graphic
-      - "Video":   software#video
-      - "Audio":   software#audio
-      - "Web":     software#web
-      - "Office":  software#office
-      - "Tools":   software#tools
+      - "System":   software#system
+      - "CAD":      software#cad
+      - "Graphic":  software#graphic
+      - "Video":    software#video
+      - "Audio":    software#audio
+      - "Web":      software#web
+      - "Office":   software#office
+      - "Diagram":  software#diagram
+      - "Tools":    software#tools
   - "Assets":
     - "Icons": assets#icons
     - "Fonts": assets#fonts
@@ -74,10 +75,10 @@ theme:
 
     palette:
 
-      - media: "(prefers-color-scheme)"
-        toggle:
-          icon: material/weather-night
-          name: Switch to dark mode
+      #- media: "(prefers-color-scheme)"
+      #  toggle:
+      #    icon: material/weather-night
+      #    name: Switch to dark mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
         primary: green

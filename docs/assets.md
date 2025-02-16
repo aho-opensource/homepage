@@ -10,10 +10,15 @@ title: Assets
 # Assets
 
 ## Icons
+For more icons, take a look here: [https://github.com/topics/icons](https://github.com/topics/icons)
+
+### [iconoir](https://iconoir.com/)
 
 ### [heroicons](https://heroicons.com/)
 
 ### [feather](https://feathericons.com/)
+
+### [Table Icons](https://tabler.io/icons)
 
 ### [Google Icons](https://fonts.google.com/icons)
 
@@ -47,6 +52,7 @@ Asset collection of textures, HDRI-images and 3D-models.
 
 
 ## Photos
+TODO
 
 ## Sound
 
@@ -54,9 +60,10 @@ Asset collection of textures, HDRI-images and 3D-models.
 Creative Commons licensed audio samples.
 
 ## Music
+TODO
 
 ## Data
 
 ### [fakedata](https://github.com/fakedata-haskell/fakedata)
-Generate different types of data. Other language bindings exist.
+Generate different types of data. Other language bindings exist (Ruby, C++, JavaScript, python, Go, Ruby).
 
