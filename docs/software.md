@@ -97,6 +97,9 @@ Traditional office suite (word processor, spreadsheet, presentation program, dat
 
 ## Diagram
 
+### [Penpot](https://penpot.app/)
+GUI design 
+
 ### [SankeyMATIC](https://sankeymatic.com/)
 Compare amounts through different stages.
 
