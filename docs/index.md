@@ -17,6 +17,6 @@ hide: toc
 
 - [:fontawesome-solid-pen-ruler: **Design**](programmes/design.md)
 
-- [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/lanscape_architecture.md)
+- [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/landscape_architecture.md)
 
 </div>
