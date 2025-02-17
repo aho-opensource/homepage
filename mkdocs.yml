@@ -8,16 +8,18 @@ repo_name: aho-opensource/homepage
 nav:
   - index.md
   - "Software":
-      - "System":   software#system
-      - "CAD":      software#cad
-      - "Graphic":  software#graphic
-      - "Video":    software#video
-      - "Audio":    software#audio
-      - "Web":      software#web
-      - "Office":   software#office
-      - "Diagram":  software#diagram
-      - "Tools":    software#tools
+    - software/index.md
+    - "System":   software#system
+    - "CAD":      software#cad
+    - "Graphic":  software#graphic
+    - "Video":    software#video
+    - "Audio":    software#audio
+    - "Web":      software#web
+    - "Office":   software#office
+    - "Diagram":  software#diagram
+    - "Tools":    software#tools
   - "Assets":
+    - assets/index.md
     - "Icons": assets#icons
     - "Fonts": assets#fonts
     - "Vectors": assets#vectors
@@ -54,10 +56,13 @@ theme:
         - navigation.tracker
         #- navigation.expand
         - toc.follow
-        #- navigation.indexes
+        - navigation.indexes
 
     icon:
-      annotation: material/tooltip-text
+      #annotation: material/tooltip-text
+      annotation: material/tooltip-text-outline
+      #annotation: material/information
+      #annotation: material/information-symbol-outline
 
       #admonition:
       #    note: octicons/tag-16

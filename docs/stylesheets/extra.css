@@ -8,14 +8,25 @@
   display: none !important;
 }
 
-/* add icon for external links */
-.md-typeset a:not(.md-icon) {
-    &[href^="//"]::after,
-    &[href^="http://"]::after,
-    &[href^="https://"]::after {
-        content: "↗"; /*the icon*/
-        font-size: smaller;
-        margin-left: .2em;
-        vertical-align: top;
-    }
-}
+/*h3 { white-space: nowrap; }*/
+/*h3 {*/
+/*    page-break-inside: avoid;*/
+/*}*/
+/*h3::after {*/
+/*    content: "";*/
+/*    display: block;*/
+/*    height: 100px;*/
+/*    margin-bottom: -100px;*/
+/*}*/
+
+/*/* add icon for external links */*/
+/*.md-typeset a:not(.md-icon) {*/
+/*    &[href^="//"]::after,*/
+/*    &[href^="http://"]::after,*/
+/*    &[href^="https://"]::after {*/
+/*        content: "↗"; 
+/*        font-size: smaller;*/
+/*        margin-left: .2em;*/
+/*        vertical-align: top;*/
+/*    }*/
+/*}*/
