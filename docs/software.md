@@ -22,6 +22,8 @@ _Homebrew_ can even install most GUI software for your macOS.
     $ brew install <name>      # install software 
     $ brew cask install <name> # install GUI software 
     ```
+    
+    See [`tldr brew`](https://tldr.inbrowser.app/pages/common/brew) for more information.
 
 === "Windows"
 
@@ -31,6 +33,8 @@ _Homebrew_ can even install most GUI software for your macOS.
     $ apt search <name>         # look after software
     $ sudo apt install <name>   # install software
     ```
+
+    See [`tldr apt`](https://tldr.inbrowser.app/pages/linux/apt) for more information.
 
 === "Linux"
 
@@ -96,8 +100,14 @@ Using Blender for video editing.
 #### [EagleAnimation](https://brickfilms.com/eagle-animation)
 Create stop motion animation, typically using a connected USB-webcam.
 
-#### [FFmpeg](https://ffmpeg.org/)
+#### [FFmpeg](https://tldr.inbrowser.app/pages/common/ffmpeg)
 CLI to convert video and sound formats. (1)
+{ .annotate }
+
+1. Install using your [package manager](#software).
+
+#### [yt-dlp](https://tldr.inbrowser.app/pages/common/yt-dlp)
+CLI to download videos and audio from internet (YouTube, Vimeo, etc). (1)
 { .annotate }
 
 1. Install using your [package manager](#software).
