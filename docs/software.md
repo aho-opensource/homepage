@@ -118,6 +118,12 @@ CLI to download videos and audio from internet (YouTube, Vimeo, etc). (1)
 #### [Audacity](https://www.audacityteam.org/)
 Digital audio editor and recorder.
 
+#### [Ardour](https://ardour.org/)
+Digital audio workstation.
+
+#### [LMMS](https://lmms.io/)
+Digital audio workstation.
+
 
 ## Web
 
