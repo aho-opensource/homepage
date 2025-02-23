@@ -1,0 +1,6 @@
+[submodule "libs/mkdocs-badges"]
+	path = libs/mkdocs-badges
+	url = https://github.com/six-two/mkdocs-badges.git
+[submodule "libs/mkdocs-link-embeds"]
+	path = libs/mkdocs-link-embeds
+	url = https://github.com/Aetherinox/mkdocs-link-embeds.git
