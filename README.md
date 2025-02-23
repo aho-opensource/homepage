@@ -1,5 +1,23 @@
-# homepage
+# AHOpen homepage
 
+## build
+
+Install python stuff [inside a virtual environment](https://wiki.archlinux.org/title/Python/Virtual_environment):
+
+~~~bash
+$ git submodule update --init --recursive
+$ python -m venv build
+$ source build/bin/activate
+$ pip install -e libs/mkdocs-badges
+$ pip install -e libs/mkdocs-link-embeds
+~~~
+
+Run [your local site](localhost:8000) during development/writing:
+
+~~~bash
+$ # inside the virtual environment:
+$ mkdocs serve
+~~~
 
 ## TODO
 * create good guides for students:
