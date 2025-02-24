@@ -92,6 +92,12 @@ Zooming presentation editor.
 #### [Pixelorama](https://orama-interactive.itch.io/pixelorama)
 Pixel art multitool.
 
+#### [Scribus](https://www.scribus.net/)
+Desktop Publishing software (DTP)
+
+#### [darktable](https://www.darktable.org/)
+Photography workflow application and RAW developer.
+
 #### [ImageMagick](https://imagemagick.org/)
 CLI image format converter and editor. (1)
 { .annotate }
