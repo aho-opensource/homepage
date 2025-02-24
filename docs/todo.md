@@ -6,3 +6,5 @@ title: TODO
 #status:
 #template: 
 ---
+
+----8<----- "TODO.md"
