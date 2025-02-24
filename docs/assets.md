@@ -10,7 +10,9 @@ title: Assets
 # Assets
 
 ## Icons
-For more icons, take a look here: [https://github.com/topics/icons](https://github.com/topics/icons)
+<!--For more icons, take a look here: [https://github.com/topics/icons](https://github.com/topics/icons)-->
+
+#### [Free Icons](https://free-icons.github.io/free-icons/)
 
 #### [iconoir](https://iconoir.com/)
 
@@ -24,6 +26,7 @@ For more icons, take a look here: [https://github.com/topics/icons](https://gith
 
 #### [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
+
 ## Fonts
 
 #### [FONTLIBRARY](https://fontlibrary.org/)
@@ -35,15 +38,33 @@ Modern and popular fonts.
 #### [Nerd Fonts](https://www.nerdfonts.com/)
 Monospaced fonts patched with icons.
 
+
 ## Clip Art
 
 #### [Openclipart](https://openclipart.org/)
 SVG vector images. 
 
+#### [Open Game Art](https://opengameart.org/)
+Game assets.
+
+
+## UI
+
+#### [Uiverse](https://uiverse.io/)
+GUI assets.
+
+
 ## 3D-models
 
 #### [Poly Haven](https://polyhaven.com/)
 Asset collection of textures, HDRI-images and 3D-models.
+
+#### [Open Game Art](https://opengameart.org/)
+Game assets.
+
+#### [Printables](https://www.printables.com/)
+3D print models.
+
 
 ## Textures
 
@@ -54,13 +75,16 @@ Asset collection of textures, HDRI-images and 3D-models.
 ## Photos
 TODO
 
+
 ## Sound
 
 #### [Freesound](https://freesound.org/)
 Creative Commons licensed audio samples.
 
+
 ## Music
 TODO
+
 
 ## Data
 

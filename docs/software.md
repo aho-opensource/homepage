@@ -10,7 +10,7 @@ title: Software
 # Software
 
 
-CLI software is easiest installed using your [package manager](#system). 
+CLI software is most easily installed using your [package manager](#system). 
 _Homebrew_ can even install most GUI software for your macOS.
 
 === "macOS"
@@ -50,6 +50,10 @@ The missing package manager for macOS.
 #### [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)
 Use Linux inside Windows. Works as a package manager for CLI software on Windows.
 
+#### [Linux](https://distrochooser.de/)
+Linux :simple-linux:
+
+
 ## CAD
 
 #### [FreeCAD](https://www.freecad.org/)
@@ -80,7 +84,13 @@ Raster graphics editor for image manipulation and editing, typically photos.
 Font editor software. Can also extract and export fonts from PDF files.
 
 #### [Blender](https://www.blender.org/)
-3D scene renderer (photorealism, cartooning, etc.)
+3D scene renderer (photorealism, cartooning, etc.).
+
+#### [Sozi](https://sozi.baierouge.fr/)
+Zooming presentation editor.
+
+#### [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+Pixel art multitool.
 
 #### [ImageMagick](https://imagemagick.org/)
 CLI image format converter and editor. (1)
@@ -97,8 +107,17 @@ Video editor software.
 #### [Blender](https://docs.blender.org/manual/en/latest/video_editing/index.html)
 Using Blender for video editing.
 
+#### [Natron](https://natrongithub.github.io/)
+Composing software for VFX and motion graphics.
+
 #### [EagleAnimation](https://brickfilms.com/eagle-animation)
 Create stop motion animation, typically using a connected USB-webcam.
+
+#### [Synfig Studio](https://www.synfig.org/)
+Vector based 2D animation software.
+
+#### [Pencil2D](https://www.pencil2d.org/)
+2D hand-drawn animation software.
 
 #### [FFmpeg](https://tldr.inbrowser.app/pages/common/ffmpeg)
 CLI to convert video and sound formats. (1)
@@ -123,6 +142,9 @@ Digital audio workstation.
 
 #### [LMMS](https://lmms.io/)
 Digital audio workstation.
+
+#### [Mixxx](https://mixxx.org/)
+DJ software.
 
 
 ## Web
@@ -156,6 +178,7 @@ GUI design
 
 #### [SankeyMATIC](https://sankeymatic.com/)
 Compare amounts through different stages.
+
 
 ## Tools
 

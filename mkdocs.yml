@@ -20,15 +20,16 @@ nav:
     - "Tools":    software#tools
   - "Assets":
     - assets/index.md
-    - "Icons": assets#icons
-    - "Fonts": assets#fonts
-    - "Vectors": assets#vectors
+    - "Icons":     assets#icons
+    - "Fonts":     assets#fonts
+    - "Clip Art":  assets#clip-art
+    - "UI":        assets#ui
     - "3D-models": assets#3d-models
-    - "Textures": assets#textures
-    - "Photos": assets#photos
-    - "Sound": assets#sound
-    - "Music": assets#music
-    - "Data": assets#data
+    - "Textures":  assets#textures
+    - "Photos":    assets#photos
+    - "Sound":     assets#sound
+    - "Music":     assets#music
+    - "Data":      assets#data
     #- "": assets#
   - "Study Programs":
     - programmes/architecture.md
