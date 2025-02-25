@@ -10,37 +10,38 @@ title: Software
 # Software
 
 
-CLI software is most easily installed using your [package manager](#system). 
-_Homebrew_ can even install most GUI software for your macOS.
+!!! tip
+    CLI software is most easily installed using your [package manager](#system). 
+    _Homebrew_ can even install most GUI software for your macOS.
 
-=== "macOS"
+    === "macOS"
 
-    Using Terminal:
+        Using Terminal:
 
-    ``` bash
-    $ brew search <name>       # look after software 
-    $ brew install <name>      # install software 
-    $ brew cask install <name> # install GUI software 
-    ```
-    
-    See [`tldr brew`](https://tldr.inbrowser.app/pages/common/brew) for more information.
+        ``` bash
+        $ brew search <name>       # look after software 
+        $ brew install <name>      # install software 
+        $ brew cask install <name> # install GUI software 
+        ```
+        
+        See [`tldr brew`](https://tldr.inbrowser.app/pages/common/brew) for more information.
 
-=== "Windows"
+    === "Windows"
 
-    Using WSL (Ubuntu):
+        Using WSL (Ubuntu):
 
-    ``` bash
-    $ apt search <name>         # look after software
-    $ sudo apt install <name>   # install software
-    ```
+        ``` bash
+        $ apt search <name>         # look after software
+        $ sudo apt install <name>   # install software
+        ```
 
-    See [`tldr apt`](https://tldr.inbrowser.app/pages/linux/apt) for more information.
+        See [`tldr apt`](https://tldr.inbrowser.app/pages/linux/apt) for more information.
 
-=== "Linux"
+    === "Linux"
 
-    [pacman/Rosetta](https://wiki.archlinux.org/title/Pacman/Rosetta)
+        [pacman/Rosetta](https://wiki.archlinux.org/title/Pacman/Rosetta)
 
------
+    -----
 
 ## System
 
