@@ -11,7 +11,7 @@ title: Software
 
 
 !!! tip
-    CLI software is most easily installed using your [package manager](#system). 
+    CLI (command line interface) software is most easily installed using your [package manager](#system). 
     _Homebrew_ can even install most GUI software for your macOS.
 
     === "macOS"
@@ -100,10 +100,7 @@ Desktop Publishing software (DTP)
 Photography workflow application and RAW developer.
 
 #### [ImageMagick](https://imagemagick.org/)
-CLI image format converter and editor. (1)
-{ .annotate }
-
-1. Install using your [package manager](#software).
+CLI image format converter and editor.
 
 
 ## Video
@@ -127,16 +124,10 @@ Vector based 2D animation software.
 2D hand-drawn animation software.
 
 #### [FFmpeg](https://tldr.inbrowser.app/pages/common/ffmpeg)
-CLI to convert video and sound formats. (1)
-{ .annotate }
-
-1. Install using your [package manager](#software).
+CLI to convert video and sound formats.
 
 #### [yt-dlp](https://tldr.inbrowser.app/pages/common/yt-dlp)
-CLI to download videos and audio from internet (YouTube, Vimeo, etc). (1)
-{ .annotate }
-
-1. Install using your [package manager](#software).
+CLI to download videos and audio from internet (YouTube, Vimeo, etc).
 
 #### [vcsi](https://github.com/amietn/vcsi)
 CLI with several options to create a grid of thumbnails from a video.
@@ -175,10 +166,7 @@ List of self hosting alternatives for web services.
 ## Office
 
 #### [Pandoc](https://pandoc.org/)
-CLI for converting between text document formats. (1) Makes it easy to create PDF files from Markdown with images, reference system, etc. Templates let you define custom visual styles.
-{ .annotate }
-
-1. Install using your [package manager](#software).
+CLI for converting between text document formats. Makes it easy to create PDF files from Markdown with images, reference system, etc. Templates let you define custom visual styles.
 
 #### [LibreOffice](https://www.libreoffice.org/)
 Traditional office suite (word processor, spreadsheet, presentation program, database).
@@ -206,3 +194,6 @@ CLI configurable data sampler and visualizer.
 
 #### [Git](https://git-scm.com/book/)
 The de facto version control system. 
+
+
+*[CLI]: Install using your package manager (typically)
