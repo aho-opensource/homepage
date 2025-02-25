@@ -200,9 +200,5 @@ CLI configurable data sampler and visualizer.
 
 ## Tools
 
-
 #### [Git](https://git-scm.com/book/)
 The de facto version control system. 
-
-#### [GitHub](https://github.com/)
-The open source central on the internets. Create a user and start development and collaboration.
