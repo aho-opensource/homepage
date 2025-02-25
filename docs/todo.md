@@ -8,3 +8,5 @@ title: TODO
 ---
 
 ----8<----- "TODO.md"
+
+<!-- material/tags { include: [TODO] } -->
