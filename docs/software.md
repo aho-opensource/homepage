@@ -161,8 +161,11 @@ DJ software.
 #### [GitHub Pages](https://pages.github.com/)
 A free and easy way to create a homepage using your GitHub account.
 
+#### [Jekyll](https://jekyllrb.com/)
+An easy way to create your own website. Works well with GitHub pages.
+
 #### [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-A popular theme for MkDocs to build webpages. Works well with GitHub pages.
+A popular theme with several features for MkDocs. Works well with GitHub pages.
 
 #### [awesome-selfhosted](https://awesome-selfhosted.net/)
 List of self hosting alternatives for web services.

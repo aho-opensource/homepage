@@ -8,7 +8,7 @@ description: Information about AHO Open Source
 hide: toc
 ---
 
-# Welcome to AHO Open Source!
+# Welcome to AHO Open Source
 
 Let us spread the open design philosophy to the people of AHO! Let us
 
