@@ -137,6 +137,9 @@ CLI to download videos and audio from internet (YouTube, Vimeo, etc). (1)
 
 1. Install using your [package manager](#software).
 
+#### [vcsi](https://github.com/amietn/vcsi)
+CLI with several options to create a grid of thumbnails from a video.
+
 
 ## Audio
 
@@ -177,16 +180,26 @@ CLI for converting between text document formats. (1) Makes it easy to create PD
 Traditional office suite (word processor, spreadsheet, presentation program, database).
 
 
-## Diagram
+## UI
 
 #### [Penpot](https://penpot.app/)
 GUI design 
 
+
+## Data
+
 #### [SankeyMATIC](https://sankeymatic.com/)
 Compare amounts through different stages.
 
+#### [Orange](https://orangedatamining.com/)
+Interactive, visual data analysis.
+
+#### [sampler](https://sampler.dev/)
+CLI configurable data sampler and visualizer.
+
 
 ## Tools
+
 
 #### [Git](https://git-scm.com/book/)
 The de facto version control system. 

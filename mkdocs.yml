@@ -16,7 +16,8 @@ nav:
     - "Audio":    software#audio
     - "Web":      software#web
     - "Office":   software#office
-    - "Diagram":  software#diagram
+    - "UI":       software#ui
+    - "Data":     software#data
     - "Tools":    software#tools
   - "Assets":
     - assets/index.md
