@@ -17,9 +17,11 @@ Let us spread the open design philosophy to the people of AHO! Let us
 * Increase our knowledge of open source
 * Contribute to open source
 
-Here you will find information and a curated set of tools and assets suitable for studies and works at AHO.
+Here you will find information and a curated set of tools and assets suitable for studies and work at AHO.
+
 
 ## Program pages
+
 <div class="grid cards" markdown>
 
 - [:material-home-city-outline: **Architecture**](programmes/architecture.md)

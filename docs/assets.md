@@ -9,6 +9,10 @@ title: Assets
 
 # Assets
 
+!!! note
+    Not all assets here are necessary completely open source, for example some Creative Common licenses are not allowed for commercial works. See [About CC Licenses](https://creativecommons.org/share-your-work/cclicenses/) and [tl;drLegal](https://www.tldrlegal.com/).
+
+
 ## Icons
 <!--For more icons, take a look here: [https://github.com/topics/icons](https://github.com/topics/icons)-->
 
@@ -47,6 +51,9 @@ SVG vector images.
 #### [Open Game Art](https://opengameart.org/)
 Game assets.
 
+#### [SVG Logos](https://svglogos.dev/)
+SVG logos for computer developers.
+
 
 ## UI
 
@@ -62,6 +69,9 @@ Asset collection of textures, HDRI-images and 3D-models.
 #### [Open Game Art](https://opengameart.org/)
 Game assets.
 
+#### [ambientCG](https://ambientcg.com/)
+Asset collection of textures, HDRI-images and 3D-models.
+
 #### [Printables](https://www.printables.com/)
 3D print models.
 
@@ -71,19 +81,37 @@ Game assets.
 #### [Poly Haven](https://polyhaven.com/)
 Asset collection of textures, HDRI-images and 3D-models.
 
+#### [ambientCG](https://ambientcg.com/)
+Asset collection of textures, HDRI-images and 3D-models.
+
+
 
 ## Photos
-TODO
+
+#### [Openverse](https://openverse.org/)
+Search engine for for CC content on internet.
 
 
 ## Sound
 
+
 #### [Freesound](https://freesound.org/)
 Creative Commons licensed audio samples.
 
+#### [Openverse](https://openverse.org/)
+Search engine for for CC content on internet.
+
 
 ## Music
-TODO
+
+#### [Openverse](https://openverse.org/)
+Search engine for for CC content on internet.
+
+#### [Dogmazic](https://www.dogmazic.net/?lang=en)
+A free music sharing service.
+
+#### [ccMixter](http://dig.ccmixter.org/)
+Music for your projects.
 
 
 ## Data
@@ -91,3 +119,5 @@ TODO
 #### [fakedata](https://github.com/fakedata-haskell/fakedata)
 Generate different types of data. Install using [haskellstack](https://docs.haskellstack.org/en/stable/#how-to-install-stack); other languages has also this library (Ruby, C++, JavaScript, python, Go, etc.).
 
+
+*[CC]: Creative Commons

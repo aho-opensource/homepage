@@ -48,7 +48,7 @@ title: Software
 #### [Homebrew](https://brew.sh/)
 The missing package manager for macOS.
 
-#### [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)
+#### [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
 Use Linux inside Windows. Works as a package manager for CLI software on Windows.
 
 #### [Linux](https://distrochooser.de/)
