@@ -9,16 +9,17 @@ nav:
   - index.md
   - "Software":
     - software/index.md
-    - "System":   software#system
-    - "CAD":      software#cad
-    - "Graphic":  software#graphic
-    - "Video":    software#video
-    - "Audio":    software#audio
-    - "Web":      software#web
-    - "Office":   software#office
-    - "UI":       software#ui
-    - "Data":     software#data
-    - "Tools":    software#tools
+    - "System":       software#system
+    - "CAD":          software#cad
+    - "Graphic":      software#graphic
+    - "Video":        software#video
+    - "Audio":        software#audio
+    - "Web":          software#web
+    - "Office":       software#office
+    - "UI":           software#ui
+    - "Data":         software#data
+    - "Tools":        software#tools
+    - "Productivity": software#productivity
   - "Assets":
     - assets/index.md
     - "Icons":     assets#icons

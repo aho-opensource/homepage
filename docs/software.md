@@ -130,7 +130,7 @@ CLI to convert video and sound formats.
 CLI to download videos and audio from internet (YouTube, Vimeo, etc).
 
 #### [vcsi](https://github.com/amietn/vcsi)
-CLI with several options to create a grid of thumbnails from a video.
+CLI with several options to create a grid of thumbnails from video.
 
 
 ## Audio
@@ -194,6 +194,15 @@ CLI configurable data sampler and visualizer.
 
 #### [Git](https://git-scm.com/book/)
 The de facto version control system. 
+
+
+## Productivity
+
+#### [uBlock Origin](https://ublockorigin.com/)
+Enjoy the internet without ads.
+
+#### [SponsorBlock](https://sponsor.ajay.app/)
+Automatically skip sections with sponsored content in YouTube videos.
 
 
 *[CLI]: Install using your package manager (typically)

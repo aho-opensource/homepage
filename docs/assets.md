@@ -85,27 +85,26 @@ Asset collection of textures, HDRI-images and 3D-models.
 Asset collection of textures, HDRI-images and 3D-models.
 
 
-
 ## Photos
 
 #### [Openverse](https://openverse.org/)
-Search engine for for CC content on internet.
+Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
 
 ## Sound
 
 
 #### [Freesound](https://freesound.org/)
-Creative Commons licensed audio samples.
+Creative Commons licensed audio samples (also indexed by Openverse)
 
 #### [Openverse](https://openverse.org/)
-Search engine for for CC content on internet.
+Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
 
 ## Music
 
 #### [Openverse](https://openverse.org/)
-Search engine for for CC content on internet.
+Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
 #### [Dogmazic](https://www.dogmazic.net/?lang=en)
 A free music sharing service.
