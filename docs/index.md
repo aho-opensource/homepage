@@ -34,4 +34,4 @@ Here you will find information and a curated set of tools and assets suitable fo
 
 -----
 
-## [TODO](todo.md)
+This site is under construction, see [TODO](todo.md) for more information.
