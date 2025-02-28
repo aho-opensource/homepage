@@ -108,14 +108,15 @@ CLI image format converter and editor.
 #### [Kdenlive](https://kdenlive.org/)
 Video editor software.
 
-#### [Blender](https://docs.blender.org/manual/en/latest/video_editing/index.html)
-Using Blender for video editing.
-
+<!--#### [Blender](https://docs.blender.org/manual/en/latest/video_editing/index.html)-->
+<!--Using Blender for video editing.-->
+<!---->
 #### [Natron](https://natrongithub.github.io/)
 Composing software for VFX and motion graphics.
 
 #### [EagleAnimation](https://brickfilms.com/eagle-animation)
-Create stop motion animation, typically using a connected USB-webcam.
+Stop motion animation software with several features, using
+a wired USB-webcam (or a DSLR camera), typically.
 
 #### [Synfig Studio](https://www.synfig.org/)
 Vector based 2D animation software.
@@ -157,7 +158,8 @@ A free and easy way to create a homepage using your GitHub account.
 An easy way to create your own website. Works well with GitHub pages.
 
 #### [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-A popular theme with several features for MkDocs. Works well with GitHub pages.
+A popular theme with several features for MkDocs. Works well with GitHub pages. 
+This site is made using MkDocs and Material.
 
 #### [awesome-selfhosted](https://awesome-selfhosted.net/)
 List of self hosting alternatives for web services.
@@ -202,7 +204,7 @@ The de facto version control system.
 Enjoy the internet without ads.
 
 #### [SponsorBlock](https://sponsor.ajay.app/)
-Automatically skip sections with sponsored content in YouTube videos.
+Automatically skip the sections with sponsored content in YouTube videos.
 
 
 *[CLI]: Install using your package manager (typically)

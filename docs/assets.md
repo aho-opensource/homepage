@@ -10,7 +10,7 @@ title: Assets
 # Assets
 
 !!! note
-    Not all assets here are necessary completely open source, for example some Creative Common licenses are not allowed for commercial works. See [About CC Licenses](https://creativecommons.org/share-your-work/cclicenses/) and [tl;drLegal](https://www.tldrlegal.com/).
+    Not all assets here are necessarily completely open source, for example some Creative Common licenses are not allowed for commercial works. See [About CC Licenses](https://creativecommons.org/share-your-work/cclicenses/) and [tl;drLegal](https://www.tldrlegal.com/).
 
 
 ## Icons
@@ -107,10 +107,10 @@ Search engine for for CC content on internet, indexing [multiple sources](https:
 Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
 #### [Dogmazic](https://www.dogmazic.net/?lang=en)
-A free music sharing service.
+Free music for your projects.
 
 #### [ccMixter](http://dig.ccmixter.org/)
-Music for your projects.
+Free music for your projects.
 
 
 ## Data
