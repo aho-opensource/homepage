@@ -32,7 +32,6 @@ nav:
     - "Sound":     assets#sound
     - "Music":     assets#music
     - "Data":      assets#data
-    #- "": assets#
   - "Study Programs":
     - programmes/architecture.md
     - programmes/design.md
@@ -44,7 +43,7 @@ plugins:
   - search
   - tags
   - badges
-  #- meta # this is not part of Materials Insider anymore, so add this soon
+  #- meta # this should be available now, not a Material Insider exclusive feature anymore
   - link-embeds:
       enabled: true
       name_default: "FIXME: no name"
@@ -58,7 +57,18 @@ plugins:
       accent: "FFFFFF1A"
       verbose: false
 
-#extra:  
+# TODO: write custom partials/footer.html
+extra:
+  # remove annoying Made with XXX:
+  generator: false
+  # define social icons. see partials/footer.html of theme 
+#  social:
+#    - icon: fontawesome/brands/mastodon 
+#      link: https://fosstodon.org/@squidfunk
+#    - icon: fontawesome/brands/slack
+#      link: https://designahokull24.slack.com
+#  # copyright message. see partials/footer.html of theme 
+#copyright: Copyright &copy; 2016 - 2020 Martin Donath
 
 theme:
     name: material
@@ -66,21 +76,24 @@ theme:
     logo: images/ahopen-logo.svg
     favicon: images/ahopen-favicon.svg
 
+    # see https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation
     features:
         - content.tabs.link # link tab selection on page
         #- content.tooltips
-        - navigation.footer
+        #- navigation.footer # show prev/next
         - navigation.tracker
         #- navigation.expand
         - toc.follow
         - navigation.indexes
 
     icon:
+      # define custom symbol for text annotations
       #annotation: material/tooltip-text
       annotation: material/tooltip-text-outline
       #annotation: material/information
       #annotation: material/information-symbol-outline
 
+      # define custom icons for admonition boxes
       #admonition:
       #    note: octicons/tag-16
       #    abstract: octicons/checklist-16

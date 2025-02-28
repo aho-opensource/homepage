@@ -1,12 +1,19 @@
-/*remove titles */
+/*remove titles in header */
 .md-header__topic, .md-nav__title {
   display: none;
 }
 
-/* remove Next/Prev */
-.md-footer__inner  {
+/* remove meta of footer by now (navigation is already removed in mkdocs.yml) */
+.md-footer-meta {
+
   display: none !important;
 }
+
+/* remove Next/Prev */
+/* NOTE: this is instead done by removing theme.features.navigation.footer
+/*.md-footer__inner  {*/
+/*  display: none !important;*/
+/*}*/
 
 /*h3 { white-space: nowrap; }*/
 /*h3 {*/
@@ -27,6 +34,6 @@
 /*        content: "↗"; 
 /*        font-size: smaller;*/
 /*        margin-left: .2em;*/
-/*        vertical-align: top;*/
+/*        vertical-align: top;by */
 /*    }*/
 /*}*/
