@@ -39,6 +39,12 @@ Open font library.
 #### [Google Fonts](https://fonts.google.com/)
 Modern and popular fonts.
 
+#### [Font Squirrel](https://www.fontsquirrel.com/)
+Free fonts for commercial use.
+
+#### [Open Foundry](https://open-foundry.com/)
+Curated and open source fonts.
+
 #### [Nerd Fonts](https://www.nerdfonts.com/)
 Monospaced fonts patched with icons.
 
@@ -50,6 +56,12 @@ SVG vector images.
 
 #### [Open Game Art](https://opengameart.org/)
 Game assets.
+
+#### [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack)
+Hand-drawn vector illustrations.
+
+#### [unDraw](https://undraw.co/)
+Open source illustrations.
 
 #### [SVG Logos](https://svglogos.dev/)
 SVG logos for computer developers.
@@ -72,6 +84,9 @@ Game assets.
 #### [ambientCG](https://ambientcg.com/)
 Asset collection of textures, HDRI-images and 3D-models.
 
+#### [Kenney](https://www.kenney.nl/assets/category:3D)
+3D game assets.
+
 #### [Printables](https://www.printables.com/)
 3D print models.
 
@@ -90,6 +105,9 @@ Asset collection of textures, HDRI-images and 3D-models.
 #### [Openverse](https://openverse.org/)
 Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
+#### [Pexels](https://www.pexels.com/)
+Free stock photos.
+
 
 ## Sound
 
@@ -99,6 +117,9 @@ Creative Commons licensed audio samples (also indexed by Openverse)
 
 #### [Openverse](https://openverse.org/)
 Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
+
+#### [Kenney](https://www.kenney.nl/assets/category:Audio)
+Sound effects for games, UI, etc.
 
 
 ## Music
