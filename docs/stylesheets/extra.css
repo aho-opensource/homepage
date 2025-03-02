@@ -2,12 +2,13 @@ div.home-carousel
 {
 }
 
-#lightSlider ul {
+/*#lightSlider ul {*/
+ul.lightSlider {
     list-style: none outside none;
-    display: inline;
+    /*display: block !important;*/
 }
 #lightSlider li {
-    display: block;
+    /*display: block;*/
     float: left;
     cursor:pointer;
 }
@@ -29,13 +30,16 @@ div.home-carousel
 
 #lightSlider figure {
   position: relative;
+  display: block;
 }
 
 /*remove titles in header */
+/* NOTE: this removes navigation on mobile phones, so instead we use an empty string
+ *       for 'site_name' in mkdocs.yml
 .md-header__topic, .md-nav__title {
+{
     display: none;
 }
-
 /* remove meta of footer by now (navigation is already removed in mkdocs.yml) */
 .md-footer-meta {
     display: none !important;

@@ -1,4 +1,5 @@
-site_name: AHO Open Source
+#site_name: AHO Open Source
+site_name: "" # remove annoying title
 site_url: https://aho-opensource.github.io
 site_description: Freedom for The Oslo School of Architecture and Design
 site_author: karamellpelle
@@ -6,7 +7,7 @@ repo_url: https://github.com/aho-opensource/homepage
 repo_name: aho-opensource/homepage
 
 nav:
-  - index.md
+  - "Welcome!": index.md
   - "Software":
     - software/index.md
     - "System":       software#system

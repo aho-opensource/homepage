@@ -1,5 +1,6 @@
 ---
-title: Welcome!
+#title: Welcome!
+title: "" # remove from header on scroll down
 #subtitle: 
 description: Information about AHO Open Source
 #icon: 
@@ -115,6 +116,14 @@ Here you will find information and a curated set of tools and assets suitable fo
             <img src="images/carousel-orange.png">
             <!--<figcaption>Orange #data-analysis</figcaption>-->
             <figcaption>#data-analysis</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-sampler.png">
+            <!--<figcaption>Sampler #visualisation</figcaption>-->
+            <figcaption>#data-visualization</figcaption>
           </figure>
         </li>
 
