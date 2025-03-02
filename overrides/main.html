@@ -28,24 +28,25 @@
   {{ super() }}
   <!-- Add scripts that need to run afterwards here -->
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="js/lightslider.js"></script>
-  <script type="text/javascript">
-      document$.subscribe(function() {
-        console.log("Initialize third-party libraries here")
-      })
+      {% if page.is_homepage %}
 
-    $(document).ready(function() {
-        $('#lightSlider').lightSlider({
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script src="js/lightslider.js"></script>
+      <script type="text/javascript">
+        //document$.subscribe(function() {
+        //  console.log("Initialize third-party libraries here")
+        //})
+        //
+        $(document).ready(function() {
+          $('#lightSlider').lightSlider({
 
             easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
             speed:600,
             //onSliderLoad: function() { $('#lightSlider').removeClass('cS-hidden'); },
 
             item: 3,
-            slideMove: 1, // slidemove will be 1 if loop is true
+            slideMove: 1, 
             slideMargin: 10,
-            //slideMargin: 0,
             autoWidth:true,
             pager: false,
             loop: false,
@@ -56,25 +57,25 @@
             //pauseOnHover: true,
 
             responsive : [
-                {
-                    breakpoint:800,
-                    settings: {
-                        item:2,
-                        //slideMargin:6,
-                      }
-                },
-                {
-                    breakpoint:480,
-                    settings: {
-                        item:1,
-                        slideMove:1
-                      }
+              {
+                breakpoint:800,
+                settings: {
+                  item:2,
                 }
+              },
+              {
+                breakpoint:480,
+                settings: {
+                  item:1,
+                }
+              }
             ]
 
+          });
         });
-    });
 
   </script>
+
+  {% endif %} 
 
 {% endblock %}
