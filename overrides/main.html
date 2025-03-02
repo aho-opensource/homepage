@@ -1,0 +1,139 @@
+<!--
+  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+{% extends "base.html" %}
+
+
+{% block scripts %}
+  <!-- Add scripts that need to run before here -->
+  {{ super() }}
+  <!-- Add scripts that need to run afterwards here -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="js/lightslider.js"></script>
+  <script type="text/javascript">
+      //document$.subscribe(function() {
+      //  console.log("Initialize third-party libraries here")
+      //})
+
+    $(document).ready(function() {
+        $('#lightSlider').lightSlider({
+            //gallery: true,
+            //item: 1,
+            //loop: true,
+            //slideMargin: 0,
+            //thumbItem: 9
+
+            item: 3,
+            autoWidth: false, // 
+            slideMove: 1, // slidemove will be 1 if loop is true
+            slideMargin: 10,
+
+            addClass: '',
+            mode: "slide",
+            useCSS: true,
+            cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+            easing: 'linear', //'for jquery animation',////
+
+            speed: 400, //ms'
+            auto: true,
+            pauseOnHover: true,
+            loop: true,
+            slideEndAnimation: true,
+            pause: 2000,
+
+            keyPress: false,
+            controls: true,
+            prevHtml: '',
+            nextHtml: '',
+
+            rtl:false,
+            adaptiveHeight:false,
+
+            vertical:false,
+            verticalHeight:500,
+            vThumbWidth:100,
+
+            thumbItem:10,
+            pager: true,
+            gallery: false,
+            galleryMargin: 5,
+            thumbMargin: 5,
+            currentPagerPosition: 'middle',
+
+            enableTouch:true,
+            enableDrag:false,//
+            freeMove:true,
+            swipeThreshold: 40,
+
+            responsive : [],
+
+            //item:4,
+            //loop:false,
+            //slideMove:2,
+            //easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
+            //speed:600,
+            //responsive : [
+            //    {
+            //        breakpoint:800,
+            //        settings: {
+            //            item:3,
+            //            slideMove:1,
+            //            slideMargin:6,
+            //          }
+            //    },
+            //    {
+            //        breakpoint:480,
+            //        settings: {
+            //            item:2,
+            //            slideMove:1
+            //          }
+            //    }
+            //]
+
+        //          adaptiveHeight:true,
+        //item:6,
+        //slideMargin:0,
+        //loop:true
+
+          //  item:4,
+          //autoWidth:true,
+          //loop:true,
+          //onSliderLoad: function() { $('#autoWidth').removeClass('cS-hidden'); } 
+
+        });
+    });
+
+      //document$.subscribe(function() {
+      //    $("#lightSlider").lightSlider
+      //    (
+      //      {
+      //          gallery: true,
+      //          item: 1,
+      //          loop: true,
+      //          slideMargin: 0,
+      //          thumbItem: 9
+      //    
+      //      }
+      //    );
+  </script>
+
+{% endblock %}

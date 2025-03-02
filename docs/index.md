@@ -19,6 +19,112 @@ Let us spread the open design philosophy to the people of AHO! Let us
 
 Here you will find information and a curated set of tools and assets suitable for studies and work at AHO.
 
+<ul id="lightSlider">
+
+        <li>
+          <figure><img src="images/carousel-ardour.png">
+            <!--<figcaption>Ardour #music</figcaption>-->
+            <figcaption>#music #daw</figcaption>
+          </figure>
+        </li>
+        
+        <li>
+          <figure>
+            <img src="images/carousel-freecad.png">
+            <!--<figcaption>FreeCAD #cad</figcaption>-->
+            <figcaption>#cad #3d</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-blender.png">
+            <!--<figcaption>Blender #cad #rendering</figcaption>-->
+            <figcaption>#cad #3d #rendering</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-freecad_bim.png">
+            <!--<figcaption>FreeCAD BIM #cad #architecture</figcaption>-->
+            <figcaption>#cad #3d #architecture</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-inkscape.png">
+            <!--<figcaption>Inkscape #graphics</figcaption>-->
+            <figcaption>#graphics</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-kdenlive.png">
+            <!--<figcaption>Kdenlive #video</figcaption>-->
+            <figcaption>#video</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-krita.png">
+            <!--<figcaption>Krita #graphics</figcaption>-->
+            <figcaption>#graphics</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-librecad.png">
+            <!--<figcaption>LibreCAD #cad</figcaption>-->
+            <figcaption>#cad #2d</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-lmms.png">
+            <!--<figcaption>LMMS #music</figcaption>-->
+            <figcaption>#music #daw</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-mixxx.png">
+            <!--<figcaption>Mixxx #music #dj</figcaption>-->
+            <figcaption>#music #dj</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-natron.png">
+            <!--<figcaption>Natron #video #vfx</figcaption>-->
+            <figcaption>#video #vfx</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-orange.png">
+            <!--<figcaption>Orange #data-analysis</figcaption>-->
+            <figcaption>#data-analysis</figcaption>
+          </figure>
+        </li>
+
+        <li>
+          <figure>
+            <img src="images/carousel-sampler.png">
+            <!--<figcaption>Sampler #visualisation</figcaption>-->
+            <figcaption>#data-visualization</figcaption>
+          </figure>
+        </li>
+</ul>
+
 
 ## Program pages
 

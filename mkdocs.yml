@@ -72,6 +72,7 @@ extra:
 
 theme:
     name: material
+    custom_dir: overrides
 
     logo: images/ahopen-logo.svg
     favicon: images/ahopen-favicon.svg
@@ -131,7 +132,11 @@ theme:
 
 extra_css: 
   - stylesheets/extra.css
+  - stylesheets/lightslider.css
   - stylesheets/link_embeds.css
+#extra_javascript: 
+#  - js/lightslider.js
+#  - js/jquery.min.js
 
 markdown_extensions:
   - tables
