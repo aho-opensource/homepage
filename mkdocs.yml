@@ -29,8 +29,9 @@ nav:
     - "3D-models": assets#3d-models
     - "Textures":  assets#textures
     - "Photos":    assets#photos
-    - "Sound":     assets#sound
+    - "Sounds":    assets#sounds
     - "Music":     assets#music
+    - "Videos":    assets#videos
     - "Data":      assets#data
   - "Guides":
     - guides/githubpages-portfolio.md

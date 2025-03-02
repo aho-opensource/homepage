@@ -109,8 +109,7 @@ Search engine for for CC content on internet, indexing [multiple sources](https:
 Free stock photos.
 
 
-## Sound
-
+## Sounds
 
 #### [Freesound](https://freesound.org/)
 Creative Commons licensed audio samples (also indexed by Openverse)
@@ -119,7 +118,7 @@ Creative Commons licensed audio samples (also indexed by Openverse)
 Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
 
 #### [Kenney](https://www.kenney.nl/assets/category:Audio)
-Sound effects for games, UI, etc.
+Sound effects for games, animations, UI, etc.
 
 
 ## Music
@@ -132,6 +131,12 @@ Free music for your projects.
 
 #### [ccMixter](http://dig.ccmixter.org/)
 Free music for your projects.
+
+
+## Videos
+
+#### [Pexels](https://www.pexels.com/videos/)
+Free stock videos.
 
 
 ## Data
