@@ -1,23 +1,30 @@
+div.home-carousel
+{
+}
+
 #lightSlider ul {
     list-style: none outside none;
-    padding-left: 0;
-    margin-bottom:0;
+    display: inline;
 }
 #lightSlider li {
     display: block;
     float: left;
-    margin-right: 6px;
     cursor:pointer;
 }
 #lightSlider img {
-    display: block;
-    height: auto;
-    max-width: 100%;
+    width: auto;
+    max-height: 200px;
 }
 
 #lightSlider figcaption {
-  font-size: 16px;
-  display: block;
+    font-size: 100%;
+    font-style: normal;
+    display: block;
+    color: var(--md-code-fg-color);
+    font-feature-settings: "kern";
+    font-family: var(--md-code-font-family);
+    background-color: var(--md-code-bg-color);
+    word-break: break-word;
 }
 
 #lightSlider figure {
@@ -26,16 +33,15 @@
 
 /*remove titles in header */
 .md-header__topic, .md-nav__title {
-  display: none;
+    display: none;
 }
 
 /* remove meta of footer by now (navigation is already removed in mkdocs.yml) */
 .md-footer-meta {
-
-  display: none !important;
+    display: none !important;
 }
 
-/* add icon for external links */
+/* add icon to external links */
 /*.md-typeset a:not(.md-icon) {*/
 /*    &[href^="//"]::after,*/
 /*    &[href^="http://"]::after,*/

@@ -33,8 +33,8 @@ title: Assets
 
 ## Fonts
 
-#### [FONTLIBRARY](https://fontlibrary.org/)
-Open font library.
+#### [Font Library](https://fontlibrary.org/)
+The open font library.
 
 #### [Google Fonts](https://fonts.google.com/)
 Modern and popular fonts.

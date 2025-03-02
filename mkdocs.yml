@@ -32,6 +32,9 @@ nav:
     - "Sound":     assets#sound
     - "Music":     assets#music
     - "Data":      assets#data
+  - "Guides":
+    - guides/githubpages-portfolio.md
+    - guides/markdown.md
   - "Study Programs":
     - programmes/architecture.md
     - programmes/design.md
@@ -59,6 +62,10 @@ plugins:
 
 # TODO: write custom partials/footer.html
 extra:
+  # status
+  status:
+      new: Recently added
+      todo: TODO
   # remove annoying Made with XXX:
   generator: false
   # define social icons. see partials/footer.html of theme 

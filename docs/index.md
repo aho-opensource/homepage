@@ -19,6 +19,7 @@ Let us spread the open design philosophy to the people of AHO! Let us
 
 Here you will find information and a curated set of tools and assets suitable for studies and work at AHO.
 
+<div class="home-carousel">
 <ul id="lightSlider">
 
         <li>
@@ -76,6 +77,7 @@ Here you will find information and a curated set of tools and assets suitable fo
           </figure>
         </li>
 
+
         <li>
           <figure>
             <img src="images/carousel-librecad.png">
@@ -124,18 +126,21 @@ Here you will find information and a curated set of tools and assets suitable fo
           </figure>
         </li>
 </ul>
+</div>
 
+## Guides
+
+<div class="grid cards" markdown>
+  - [**Creating your own portfolio using Github Pages**](guides/githubpages-portfolio.md)
+  - [**Writing a diploma using Markdown**](guides/markdown.md)
+</div>
 
 ## Program pages
 
 <div class="grid cards" markdown>
-
-- [:material-home-city-outline: **Architecture**](programmes/architecture.md)
-
-- [:fontawesome-solid-pen-ruler: **Design**](programmes/design.md)
-
-- [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/landscape_architecture.md)
-
+  - [:material-home-city-outline: **Architecture**](programmes/architecture.md)
+  - [:fontawesome-solid-pen-ruler: **Design**](programmes/design.md)
+  - [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/landscape_architecture.md)
 </div>
 
 -----
