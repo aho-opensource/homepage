@@ -8,15 +8,16 @@ Install python stuff [inside a virtual environment](https://wiki.archlinux.org/t
 $ git submodule update --init --recursive
 $ python -m venv build
 $ source build/bin/activate
+$ pip install -e libs/mkdocs-material
 $ pip install -e libs/mkdocs-badges
 $ pip install -e libs/mkdocs-link-embeds
 ~~~
 
-Run [your local site](localhost:8000) during development/writing:
+Run [your local site](localhost:8000) during editing:
 
 ~~~bash
-$ # inside the virtual environment:
-$ mkdocs serve
+$ # inside the above virtual environment:
+$ mkdocs serve -w docs/stylesheets -w overrides
 ~~~
 
 ## TODO
