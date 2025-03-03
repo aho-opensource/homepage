@@ -133,7 +133,7 @@ Here you will find information and a curated set of tools and assets suitable fo
 ## Guides
 
 <div class="grid cards" markdown>
-  - [**Creating your own portfolio using Github Pages**](guides/githubpages-portfolio.md)
+  - [**Creating your own portfolio using GitHub Pages**](guides/githubpages-portfolio.md)
   - [**Writing a diploma using Markdown**](guides/markdown.md)
 </div>
 

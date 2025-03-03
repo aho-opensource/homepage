@@ -58,10 +58,10 @@ Linux :simple-linux:
 ## CAD
 
 #### [FreeCAD](https://www.freecad.org/)
-Parametric 3D modeller software. Functionality is assumed to increase a lot the following years.
+Parametric 3D modeller software. Functionality is assumed to increase a lot the following years. [:material-cards-playing-heart-multiple: Resources](../resources/freecad.md) 
 
 #### [FreeCAD BIM](https://www.freecad.org/)
-FreeCAD workbench for digital architecture modelling.
+FreeCAD workbench for digital architecture modelling. [:material-cards-playing-heart-multiple: Resources](../resources/freecad_bim.md).
 
 #### [Blender](https://www.blender.org/)
 Meshing and sculpting 3D-modeller software.
