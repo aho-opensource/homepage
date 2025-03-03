@@ -4,13 +4,15 @@ div.home-carousel
 
 /*#lightSlider ul {*/
 ul.lightSlider {
-    list-style: none outside none;
     /*display: block !important;*/
+    list-style: none outside none;
+    margin-left: 0 !important;
 }
-#lightSlider li {
+li.lslide {
     /*display: block;*/
     float: left;
     cursor:pointer;
+    margin-left: 0 !important;
 }
 #lightSlider img {
     width: auto;

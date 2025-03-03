@@ -127,13 +127,6 @@ Here you will find information and a curated set of tools and assets suitable fo
           </figure>
         </li>
 
-        <li>
-          <figure>
-            <img src="images/carousel-sampler.png">
-            <!--<figcaption>Sampler #visualisation</figcaption>-->
-            <figcaption>#data-visualization</figcaption>
-          </figure>
-        </li>
 </ul>
 </div>
 
