@@ -34,13 +34,13 @@ nav:
     - "Music":     assets#music
     - "Videos":    assets#videos
     - "Data":      assets#data
-  - "Guides":
-    - guides/githubpages-portfolio.md
-    - guides/markdown.md
   - "Study Programs":
     - programs/architecture.md
     - programs/design.md
     - programs/landscape_architecture.md
+  - "Guides":
+    - guides/githubpages-portfolio.md
+    - guides/markdown.md
   #- about.md
   #- todo.md
 
