@@ -140,9 +140,9 @@ Here you will find information and a curated set of tools and assets suitable fo
 ## Program pages
 
 <div class="grid cards" markdown>
-  - [:material-home-city-outline: **Architecture**](programmes/architecture.md)
-  - [:fontawesome-solid-pen-ruler: **Design**](programmes/design.md)
-  - [:fontawesome-solid-tree-city: **Landscape Architecture**](programmes/landscape_architecture.md)
+  - [:material-home-city-outline: **Architecture**](programs/architecture.md)
+  - [:fontawesome-solid-pen-ruler: **Design**](programs/design.md)
+  - [:fontawesome-solid-tree-city: **Landscape Architecture**](programs/landscape_architecture.md)
 </div>
 
 -----

@@ -38,9 +38,9 @@ nav:
     - guides/githubpages-portfolio.md
     - guides/markdown.md
   - "Study Programs":
-    - programmes/architecture.md
-    - programmes/design.md
-    - programmes/landscape_architecture.md
+    - programs/architecture.md
+    - programs/design.md
+    - programs/landscape_architecture.md
   #- about.md
   #- todo.md
 
