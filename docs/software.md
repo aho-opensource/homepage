@@ -64,7 +64,7 @@ Parametric 3D modeller software. Functionality is assumed to increase a lot the 
 FreeCAD workbench for digital architecture modelling. [:material-cards-playing-heart-multiple: Resources](../resources/freecad_bim.md).
 
 #### [Blender](https://www.blender.org/)
-Meshing and sculpting 3D-modeller software.
+Meshing and sculpting 3D-modeller software. [:material-cards-playing-heart-multiple: Resources](../resources/blender.md) 
 
 #### [LibreCAD](https://librecad.org/)
 2D design software with DXF support.
@@ -73,7 +73,7 @@ Meshing and sculpting 3D-modeller software.
 ## Graphic
 
 #### [Inkscape](https://inkscape.org/)
-Vector graphics editor with bitmap tracing, path effects, filters and generator extensions (QR codes, charts, plots, calendars, etc.).
+Vector graphics editor with bitmap tracing, path effects, filters and generator extensions (QR codes, charts, plots, calendars, etc.). [:material-cards-playing-heart-multiple: Resources](../resources/inkscape.md)
 
 #### [Krita](https://krita.org/)
 Raster graphics drawing editor with good graphics table support and G'MIC filters.
@@ -85,7 +85,7 @@ Raster graphics editor for image manipulation and editing, typically photos.
 Font editor software. Can also extract and export fonts from PDF files.
 
 #### [Blender](https://www.blender.org/)
-3D scene renderer (photorealism, cartooning, etc.).
+3D scene renderer (photorealism, cartooning, etc.). [:material-cards-playing-heart-multiple: Resources](../resources/blender.md)
 
 #### [Sozi](https://sozi.baierouge.fr/)
 Zooming presentation editor.

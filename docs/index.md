@@ -134,7 +134,7 @@ Here you will find information and a curated set of tools and assets suitable fo
 
 <div class="grid cards" markdown>
   - [**Creating your own portfolio using GitHub Pages**](guides/githubpages-portfolio.md)
-  - [**Writing a diploma using Markdown**](guides/markdown.md)
+  - [**Writing an assignment/diploma using Markdown**](guides/markdown.md)
 </div>
 
 ## Program pages
@@ -147,4 +147,4 @@ Here you will find information and a curated set of tools and assets suitable fo
 
 -----
 
-This site is under construction, see [TODO](todo.md) for more information.
+This site is under construction, see [TODO](todo.md) for more information. Also take a look at [resources](resources/index.md) for more.

@@ -1,5 +1,5 @@
 ---
-title: Diploma using Markdown
+title: Assignment using Markdown
 #subtitle: 
 #description: 
 #icon: 
@@ -10,6 +10,6 @@ tags:
 #template: 
 ---
 
-# Writing a diploma using Markdown
+# Writing an assignment using Markdown
 
 

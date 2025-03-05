@@ -11,3 +11,6 @@ tags:
 
 # Design
 
+#### [Awesome Design](https://github.com/gztchan/awesome-design)
+Curated design resources from all over the world. 
+
