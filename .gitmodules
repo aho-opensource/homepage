@@ -7,3 +7,6 @@
 [submodule "libs/mkdocs-material"]
 	path = libs/mkdocs-material
 	url = https://github.com/squidfunk/mkdocs-material.git
+[submodule "libs/mkdocs-macros-plugin"]
+	path = libs/mkdocs-macros-plugin
+	url = https://github.com/fralau/mkdocs-macros-plugin.git
