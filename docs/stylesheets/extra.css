@@ -47,6 +47,9 @@ li.lslide {
     display: none !important;
 }
 
+.ahopen-resource-link {
+    /*font-family: var(--md-code-font-family);*/
+}
 /* add icon to external links */
 /*.md-typeset a:not(.md-icon) {*/
 /*    &[href^="//"]::after,*/

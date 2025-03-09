@@ -58,13 +58,16 @@ Linux :simple-linux:
 ## CAD
 
 #### [FreeCAD](https://www.freecad.org/)
-Parametric 3D modeller software. Functionality is assumed to increase a lot the following years. [:material-cards-playing-heart-multiple: Resources](../resources/freecad.md) 
+Parametric 3D modeller software. Functionality is assumed to increase a lot the following years. 
+{{ resource( "freecad" ) }}
 
 #### [FreeCAD BIM](https://www.freecad.org/)
-FreeCAD workbench for digital architecture modelling. [:material-cards-playing-heart-multiple: Resources](../resources/freecad_bim.md).
+FreeCAD workbench for digital architecture modelling. 
+{{ resource( "freecad_bim" ) }}
 
 #### [Blender](https://www.blender.org/)
-Meshing and sculpting 3D-modeller software. [:material-cards-playing-heart-multiple: Resources](../resources/blender.md) 
+Meshing and sculpting 3D-modeller software. 
+{{ resource( "blender" ) }}
 
 #### [LibreCAD](https://librecad.org/)
 2D design software with DXF support.
@@ -73,7 +76,8 @@ Meshing and sculpting 3D-modeller software. [:material-cards-playing-heart-multi
 ## Graphic
 
 #### [Inkscape](https://inkscape.org/)
-Vector graphics editor with bitmap tracing, path effects, filters and generator extensions (QR codes, charts, plots, calendars, etc.). [:material-cards-playing-heart-multiple: Resources](../resources/inkscape.md)
+Vector graphics editor with bitmap tracing, path effects, filters and generator extensions (QR codes, charts, plots, calendars, etc.). 
+{{ resource( "inkscape" ) }}
 
 #### [Krita](https://krita.org/)
 Raster graphics drawing editor with good graphics table support and G'MIC filters.
@@ -85,7 +89,8 @@ Raster graphics editor for image manipulation and editing, typically photos.
 Font editor software. Can also extract and export fonts from PDF files.
 
 #### [Blender](https://www.blender.org/)
-3D scene renderer (photorealism, cartooning, etc.). [:material-cards-playing-heart-multiple: Resources](../resources/blender.md)
+3D scene renderer (photorealism, cartooning, etc.). 
+{{ resource( "blender" ) }}
 
 #### [Sozi](https://sozi.baierouge.fr/)
 Zooming presentation editor.

@@ -48,7 +48,10 @@ plugins:
   - search
   - tags
   - badges
-  #- meta # this should be available now, not a Material Insider exclusive feature anymore
+  - macros:
+      module_name: macros
+    
+  #- meta 
   - link-embeds:
       enabled: true
       name_default: "FIXME: no name"
@@ -64,6 +67,7 @@ plugins:
 
 # TODO: write custom partials/footer.html
 extra:
+  unit_price: 10
   # status
   status:
       new: Recently added
