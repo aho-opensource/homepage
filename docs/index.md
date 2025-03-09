@@ -147,4 +147,4 @@ Here you will find information and a curated set of tools and assets suitable fo
 
 -----
 
-This site is under construction, see [TODO](todo.md) for more information. Also take a look at [resources](resources/index.md) for more.
+This site is under construction, see [TODO](todo.md) for more information. Also take a look at {{ resource( "" ) }} for more.

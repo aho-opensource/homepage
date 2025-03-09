@@ -41,6 +41,7 @@ nav:
   - "Guides":
     - guides/githubpages-portfolio.md
     - guides/markdown.md
+  - "Resources": resources/index.md
   #- about.md
   #- todo.md
 
