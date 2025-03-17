@@ -49,7 +49,7 @@ title: Software
 The missing package manager for macOS.
 
 #### [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
-Use Linux inside Windows. Works as a package manager for CLI software on Windows.
+Use Linux inside Windows. Works as a package manager for CLI software on Windows. ([MSYS2](https://www.msys2.org/) can also be considered, as an alternative to WSL)
 
 #### [Linux](https://distrochooser.de/)
 Linux :simple-linux:
