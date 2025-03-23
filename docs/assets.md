@@ -112,7 +112,7 @@ Free stock photos.
 ## Sounds
 
 #### [Freesound](https://freesound.org/)
-Creative Commons licensed audio samples (also indexed by Openverse)
+Creative Commons licensed audio samples (also indexed by Openverse, except NSFW sounds).
 
 #### [Openverse](https://openverse.org/)
 Search engine for for CC content on internet, indexing [multiple sources](https://openverse.org/sources).
