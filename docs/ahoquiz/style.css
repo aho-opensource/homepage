@@ -1,0 +1,100 @@
+/* hide title */
+h1
+{
+    display: none;
+}
+
+blockquote
+{
+    color: darkorange !important;
+    /*border-left-color:  darkorange !important; */
+    border-style: none !important;
+    padding-left: 0 !important;
+}
+
+/*
+.admonition > p:not(.admonition-title)
+{
+    -webkit-animation: aho-pulsate 2s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+*/
+
+.ahoquiz-door > p.admonition-title
+{
+    -webkit-animation: aho-pulsate 2s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+
+@-webkit-keyframes aho-pulsate {
+    0% { 
+        opacity: 0.5;
+        color: #0091bd;
+    }
+    50% { 
+        opacity: 1.0;
+        color: #fe6e42;
+    }
+    100% { 
+        opacity: 0.5;
+        color: #0091bd;
+    }
+}
+
+div.language-text.md-code__content
+{
+    color: purple !important; 
+}
+
+.md-typeset code
+{
+    background-color: transparent !important;
+}
+
+.ahoquiz-hide-unless-copy
+{
+    font-size: 0.5pt !important;
+    color: transparent !important;
+}
+
+/*code:not(.md-code__content)*/
+code
+{
+    color: purple !important;
+}
+
+.md-sidebar__scrollwrap,
+.md-source,
+.md-header__source
+{
+    display: none !important;
+}
+
+.md-grid
+{
+    max-width: none;
+
+}
+
+
+
+:root {
+  --md-admonition-icon--ahoquiz-door: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 11h2v2h-2zm-4-8h7a2 2 0 0 1 2 2v14h1v2H2v-2h8V5a2 2 0 0 1 2-2m0 2v14h7V5M6.2 5H2.8v-.5a1.7 1.7 0 0 1 3.4 0M7 5v-.5a2.5 2.5 0 0 0-5 0V5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1"></path></svg>')
+}
+.md-typeset .admonition.ahoquiz-door,
+.md-typeset details.ahoquiz-door {
+  border-color: rgb(43, 155, 70);
+}
+.md-typeset .ahoquiz-door > .admonition-title,
+.md-typeset .ahoquiz-door > summary {
+  background-color: rgba(43, 155, 70, 0.1);
+}
+.md-typeset .ahoquiz-door > .admonition-title::before,
+.md-typeset .ahoquiz-door > summary::before {
+  background-color: rgb(43, 155, 70);
+  -webkit-mask-image: var(--md-admonition-icon--ahoquiz-door);
+          mask-image: var(--md-admonition-icon--ahoquiz-door);
+}
+
