@@ -10,3 +10,6 @@
 [submodule "libs/mkdocs-macros-plugin"]
 	path = libs/mkdocs-macros-plugin
 	url = https://github.com/fralau/mkdocs-macros-plugin.git
+[submodule "libs/mkdocs-redirects"]
+	path = libs/mkdocs-redirects
+	url = https://github.com/mkdocs/mkdocs-redirects.git

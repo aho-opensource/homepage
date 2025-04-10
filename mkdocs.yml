@@ -51,7 +51,11 @@ plugins:
   - badges
   - macros:
       module_name: macros
-    
+  #- redirects:
+  #    redirect_maps:
+  #      'old.md': 'new.md'
+  #      'old/file.md': 'new/file.md'
+  #      'some_file.md': 'http://external.url.com/foobar' 
   #- meta 
   - link-embeds:
       enabled: true
@@ -68,11 +72,11 @@ plugins:
 
 # TODO: write custom partials/footer.html
 extra:
-  unit_price: 10
   # status
   status:
       new: Recently added
       todo: TODO
+
   # remove annoying Made with XXX:
   generator: false
   # define social icons. see partials/footer.html of theme 

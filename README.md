@@ -12,6 +12,7 @@ $ pip install -e libs/mkdocs-material
 $ pip install -e libs/mkdocs-badges
 $ pip install -e libs/mkdocs-link-embeds
 $ pip install -e libs/mkdocs-macros-plugin
+$ pip install -e libs/mkdocs-redirects
 ~~~
 
 Run [your local site](localhost:8000) during editing:

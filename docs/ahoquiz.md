@@ -12,11 +12,16 @@ hide:
   font-family: "hansgerhard";
   src: url(/fonts/HubahubaW95-Reg.woff2);
 }
-body, input, code
+body, input, code:not(.language-text)
 {
 /**/
   font-family: "hansgerhard" !important;
 /**/
+}
+
+div.language-text>pre>code
+{
+  font-family:var(--md-code-font-family) !important;
 }
 
 /* set style for ahoquiz */
@@ -38,21 +43,24 @@ body, input, code
                                                  ░           
 ```
 
-> Frihet til å skape  
-> Verktøy og material  
-> Hei min gode venn,   
+> De fleste på AHO vet at Blender er topp,  
+> og nå skal vi fortsette å løfte våre hoder opp.  
+> For det å kunne skape med fri tilgang til verktøy og material,  
+> og kunnskap fra andre 
+
+++++ HEI :) ++++
+Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. For å lese teksten bedre, anbefales det heller å benytte "Developer mode" i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
+++++++++++++++++
+{ .ahoquiz-hide-unless-copy }
+
 > En digital safari innen åpen design er gøy,   
-> og nå begynner din digitale erfaring å bli høy.  
-> Kanskje du etter denne reise vil se  
+> og nå begynner din erfaring å bli høy.  
+> Forhåpentlig vil du etter denne reise se
 > at det å la seg forblinde av kommersielle løsninger er passé.  
 > For open source gir deg så mye mer  
 > enn bedre økonomi   
 > Min kjære venn: Kom, bli med!  
 
-++++ HEI :) ++++
-Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. For å lese teksten bedre, anbefales det å benytte "Developer mode" i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS :) <==
-++++++++++++++++
-{ .ahoquiz-hide-unless-copy }
 
 <!---
 
@@ -69,52 +77,27 @@ $$ |  $$ |$$$$$$$$\ $$$$$$\       \__|$$$  /
                                              
                                              
 Om du leser dette avsnittet, leser du antageligvis HTML-koden til siden. 
-Da anbefales det å benytte "Developer mode" i nettleseren 
-til å deaktivere "font-family: hansgerhard !important" fra CSS 
-for å lese teksten bedre!
-
+For å lettere kunne lese nettsiden anbefales det heller å benytte 
+"Developer mode" i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS.
+Da vil teksten vises i nettleseren med normal font!
 
 -->
 
-her fortsetter ordleken igjen.
 
+## A (8 bokstaver)
 
-!!! example "Kodeord"
+Videoredigeringsprogram som du kan lage påskekrim med.
 
-    For hver bokstav trenger du et kodeord for å komme deg videre. 
-    Kodeord finner du gjennom å løse deloppgaver til hver bokstav.
-    Dersom kodeordet f.eks. er "LibreCADPandoc", åpner du døren 
-    med `https://aho-opensource.github.io/ahoquiz/librecadpandoc`. 
+## B (4 bokstaver)
 
+Hvordan lager du enkelt en slik presentasjon?
 
-## X _ _
+## C (6 bokstaver)
 
-> Lorem ipsum dolor sit amet, consectetur  
-> adipiscing elit. Nulla et euismod nulla.  
-> Curabitur feugiat, `tortor non` consequat  
-> finibus, justo purus auctor massa, nec  
-> semper lorem quam in massa.  
-
-* **A**: Kdenlive
-* **B:** Linux Distro
-
-!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ **A** - **B**"
-
-## _ Y _
-
-> Lorem ipsum dolor sit amet, consectetur  
-> adipiscing elit. Nulla et euismod nulla.  
-> Curabitur feugiat, `tortor non` consequat  
-> finibus, justo purus auctor massa, nec  
-> semper lorem quam in massa.  
-
-## _ _ Z
-
-> Lorem ipsum dolor sit amet, consectetur  
-> adipiscing elit. Nulla et euismod nulla.  
-> Curabitur feugiat, `tortor non` consequat  
-> finibus, justo purus auctor massa, nec  
-> semper lorem quam in massa.  
+Visuell dataanalyse med et passende påskenavn.
 
 -----
+
+!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ **A** + **B** + **C**"
+
 
