@@ -12,20 +12,18 @@ hide:
 </style>
 
 ```txt { .ahoquiz-ascii } 
-  __________________________________________
- / Velkommen, og god påske!                 \
-|                                            |
-| Løsningsordet er MYE.                      |
-|                                            |
-| Men kanskje du heller vil være litt mer    |
-| leken og finne bokstavene med CLI,         |
-| og samtidig få deg noen easter eggs til    |
-| underholdning?                             |
-| Siden du har kommet deg helt hit,          |
-| bør du også ha et godt grunnlag for å      |
-| klare dette!                               |
- \                                          /
-  ------------------------------------------
+  _____________________________________________
+ / Velkommen, og god påske!                    \
+|                                               |
+| Løsningsordet er MYE.                         |
+|                                               |
+| Men kanskje vil du også ha noen easter eggs?  |
+| Siden du har kommet deg helt hit, bør du      |
+| ha gode resursser for å finne ut hvordan      |
+| du kjører følgende CLI program i terminalen.  |
+|                                               | 
+ \                                             /
+  ---------------------------------------------
    \
     \   \
          \ /\
