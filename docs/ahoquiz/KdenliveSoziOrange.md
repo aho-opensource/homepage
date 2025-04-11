@@ -39,4 +39,6 @@ hide:
 
 ## _ _ Z
 
-<script src="https://gist.github.com/karamellpelle/cd21be6e10fc7c1f3772169b23106ba8.js"></script>
+![](Tux.png)
+
+<script src="https://gist.github.com/karamellpelle/4de94ab56edef0b9edbaa357796d232d.js"></script>

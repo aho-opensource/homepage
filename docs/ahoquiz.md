@@ -7,7 +7,7 @@ hide:
 
 <style>
 
-/* conceil our text with Hans Gerhard's font */
+/* https://www.typografi.org/skriftkronologi/skrift_kron.html */
 @font-face {
   font-family: "hansgerhard";
   src: url(/fonts/HubahubaW95-Reg.woff2);
@@ -42,6 +42,8 @@ div.language-text>pre>code
       ░  ░ ░  ░  ░    ░ ░      ░       ░      ░    ░ ░       
                                                  ░           
 ```
+
+FIXME: Skriv ferdig denne introduksjonen!
 
 > De fleste på AHO vet at [Blender](https://www.blender.org/) er topp,  
 > og nå skal vi fortsette å løfte våre hoder opp.  
