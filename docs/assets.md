@@ -142,7 +142,7 @@ Free stock videos.
 ## Data
 
 #### [fakedata](https://github.com/fakedata-haskell/fakedata)
-Generate different types of data. Install using [haskellstack](https://docs.haskellstack.org/en/stable/#how-to-install-stack); other languages has also this library (Ruby, C++, JavaScript, python, Go, etc.).
+Generate different types of data. Install using [haskellstack](https://docs.haskellstack.org/en/stable/#how-to-install-stack). This library does exists for other languages too (Ruby, C++, JavaScript, python, Go, etc.).
 
 
 *[CC]: Creative Commons

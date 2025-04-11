@@ -19,7 +19,7 @@ title: Software
         Using Terminal:
 
         ``` bash
-        $ brew search <name>       # look after software 
+        $ brew search <name>       # look for software 
         $ brew install <name>      # install software 
         $ brew cask install <name> # install GUI software 
         ```
@@ -31,7 +31,7 @@ title: Software
         Using WSL (Ubuntu):
 
         ``` bash
-        $ apt search <name>         # look after software
+        $ apt search <name>         # look for software
         $ sudo apt install <name>   # install software
         ```
 
@@ -58,7 +58,7 @@ Linux :simple-linux:
 ## CAD
 
 #### [FreeCAD](https://www.freecad.org/)
-Parametric 3D modeller software. Functionality is assumed to increase a lot the following years. 
+Parametric 3D modeller software. The functionality is expected to increase significantly in the coming years.
 {{ resource( "freecad" ) }}
 
 #### [FreeCAD BIM](https://www.freecad.org/)
@@ -113,9 +113,6 @@ CLI image format converter and editor.
 #### [Kdenlive](https://kdenlive.org/)
 Video editor software.
 
-<!--#### [Blender](https://docs.blender.org/manual/en/latest/video_editing/index.html)-->
-<!--Using Blender for video editing.-->
-<!---->
 #### [Natron](https://natrongithub.github.io/)
 Composing software for VFX and motion graphics.
 
@@ -133,7 +130,7 @@ Vector based 2D animation software.
 CLI to convert video and sound formats.
 
 #### [yt-dlp](https://tldr.inbrowser.app/pages/common/yt-dlp)
-CLI to download videos and audio from internet (YouTube, Vimeo, etc).
+CLI to download video and audio from internet (YouTube, Vimeo, SoundCloud and _many_ other sites).
 
 #### [vcsi](https://github.com/amietn/vcsi)
 CLI with several options to create a grid of thumbnails from video.
