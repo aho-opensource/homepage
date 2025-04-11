@@ -44,7 +44,7 @@ div.language-text>pre>code
 ```
 
 > De fleste ved AHO vet at [Blender](https://www.blender.org/) er et meget nyttig program,
-> men kanskje ikke alle vet at Blender bare er ett av mange open source prosjekter?
+> men kanskje ikke alle vet at Blender bare er ett av mange open source prosjekter?  
 > Og at open source ikke handler om å gi deg gratisprogrammer, men i stedet om å skape
 > design i fellesskap?
 
@@ -54,8 +54,8 @@ Du kan også benytte "Developer mode"/"Inspect"/F12 i nettleseren til å deaktiv
 ++++++++++++++++
 { .ahoquiz-hide-unless-copy }
 
-> Nå skal vi utforske fler open source programmer! Husk store og små bokstaver når du føyer sammen kodeordet.
-> Kodeordet bruker du til å låse opp ordet til AHOs påskequiz.
+> Nå skal vi utforske fler open source programmer! Husk store og små bokstaver når du føyer sammen adgangskoden.
+> Adgangskoden bruker du til å låse opp løsningsordet for AHOs påskequiz.
 
 <!---
 $$\   $$\ $$$$$$$$\ $$$$$$\           $$$\   
