@@ -7,7 +7,7 @@ Install python stuff [inside a virtual environment](https://wiki.archlinux.org/t
 ~~~bash
 $ git submodule update --init --recursive
 $ python -m venv build
-$ source build/bin/activate
+$ source source_me
 $ pip install -e libs/mkdocs-material
 $ pip install -e libs/mkdocs-badges
 $ pip install -e libs/mkdocs-link-embeds
@@ -15,7 +15,7 @@ $ pip install -e libs/mkdocs-macros-plugin
 $ pip install -e libs/mkdocs-redirects
 ~~~
 
-Run [your local site](localhost:8000) during editing:
+Run [your local site](localhost:8000) during development/editing:
 
 ~~~bash
 $ # inside the above virtual environment:

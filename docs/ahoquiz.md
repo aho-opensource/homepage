@@ -30,7 +30,7 @@ div.language-text>pre>code
 </style>
 
 
-```txt
+```txt { .ahoquiz-ascii } 
  ▄▄▄       ██░ ██  ▒█████    █████   █    ██  ██▓▒███████▒   
 ▒████▄    ▓██░ ██▒▒██▒  ██▒▒██▓  ██▒ ██  ▓██▒▓██▒▒ ▒ ▒ ▄▀░   
 ▒██  ▀█▄  ▒██▀▀██░▒██░  ██▒▒██▒  ██░▓██  ▒██░▒██▒░ ▒ ▄▀▒░    
@@ -90,7 +90,7 @@ Da vil teksten vises i nettleseren med normal font!
 > "_We would not dare to conceive the things which are really mere commonplaces of existence._"  
 >  \- Sherlock Holmes, 'A Case Of Identity'.  
 
-Du lar deg inspirere av påskekrimmen på TV og vil selv lage film. Du finner et videoredigeringsprogram og er raskt igang.
+Du lar deg inspirere av påskekrimmen på TV og vil selv lage film. Du finner et videoredigeringsprogram og kommer raskt igang.
 
 
 ## B (4 bokstaver)
@@ -99,7 +99,7 @@ Du lar deg inspirere av påskekrimmen på TV og vil selv lage film. Du finner et
     You see, but you do not observe. The distinction is clear. - Sherlock Holmes, 'The Sign of Four'
 </iframe>
 
-Påskeferie blir herlig en avslutning av prosjektuken. Du brukte et program til å enkelt presentere prosjektet på en leken måte.
+Påskeferie er en herlig en avslutning av prosjektuken. Presentasjonen gikk strålende siden du fant et enkelt program til å presentere prosjektet på en leken måte.
 
 
 ## C (6 bokstaver)
@@ -107,10 +107,10 @@ Påskeferie blir herlig en avslutning av prosjektuken. Du brukte et program til 
 > "_My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram, or the most intricate analysis, and I am in my own proper atmosphere._"  
 > \- Sherlock Holmes, 'The Sign of Four'.  
 
-Innleveringen av en kjedelig, akademisk oppgave gjør at du må ta deg bypåske. Du finner heldigvis et program for dataanalyse som lar deg arbeide visuelt og samtidig gi deg assosiasjoner til påskefjellet.
+Innleveringen av en kjedelig, akademisk oppgave gjør at du må velge bypåske. Du finner heldigvis et program for dataanalyse som lar deg arbeide visuelt og samtidig gir deg assosiasjoner til påskefjellet.
 
 -----
 
-!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ **A** + **B** + **C**"
+!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ `A + B + C`"
 
 

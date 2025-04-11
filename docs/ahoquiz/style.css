@@ -43,11 +43,6 @@ blockquote
     }
 }
 
-div.language-text.md-code__content
-{
-    color: purple !important; 
-}
-
 .md-typeset code
 {
     background-color: transparent !important;
@@ -60,9 +55,15 @@ div.language-text.md-code__content
 }
 
 /*code:not(.md-code__content)*/
-code
+/*code*/
+/*{*/
+/*    color: purple !important;*/
+/*}*/
+
+.ahoquiz-ascii code
 {
-    color: purple !important;
+    color: DarkViolet !important; 
+    font-weight: bold !important;
 }
 
 .md-sidebar__scrollwrap,
