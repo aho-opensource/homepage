@@ -14,7 +14,7 @@ hide:
 }
 body, input, code
 {
-/**/
+/*
   font-family: "hansgerhard" !important;
 /**/
 }
@@ -43,27 +43,16 @@ div.language-text>pre>code
                                                  ░           
 ```
 
-FIXME: Skriv ferdig denne introduksjonen!
-
-> De fleste på AHO vet at [Blender](https://www.blender.org/) er topp,  
-> og nå skal vi fortsette å løfte våre hoder opp.  
-> For det å kunne skape med fri tilgang til verktøy og material,  
-> og deling av kunnskap
-> skape  
+> De fleste ved AHO vet at [Blender](https://www.blender.org/) er strålende software,
+> men kanskje ikke alle vet at Blender bare er ett av mange open source programmer?
 
 ++++ HEI :) ++++
-Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. For å lese teksten bedre kan du benytte "Developer mode" i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
+Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. For å lese teksten i nettleseren kan du benytte "Developer mode"/"Inspect"/F12 til å deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
 ++++++++++++++++
 { .ahoquiz-hide-unless-copy }
 
-> En digital safari innen åpen design er gøy,   
-> og nå begynner din erfaring å bli høy.  
-> Forhåpentlig vil du etter denne reise se  
-> at det å la seg forblinde av kommersielle løsninger er passé.  
-> For open source gir så mye mer  
-> enn bedre økonomi og mindre strev.  
-> Min kjære venn: Kom, bli med!  
-
+  > Nå skal vi utforske fler open source programmer! Husk store og små bokstaver når du setter sammen kodeordet
+  > som du bruker til å låse deg inn til løsningsordet.
 
 <!---
 
@@ -80,9 +69,8 @@ $$ |  $$ |$$$$$$$$\ $$$$$$\       \__|$$$  /
                                              
                                              
 Om du leser dette avsnittet, leser du antageligvis HTML-koden til siden. 
-For å lettere kunne lese nettsiden anbefales det heller å benytte 
-"Developer mode" i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS.
-Da vil teksten vises i nettleseren med normal font!
+For å lese teksten i nettleseren kan du benytte "Developer mode"/"Inspect"/F12 i nettleseren til å 
+deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
 
 -->
 
