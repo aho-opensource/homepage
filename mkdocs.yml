@@ -3,7 +3,7 @@ site_name: "" # remove annoying title
 site_url: https://aho-opensource.github.io
 site_description: Freedom for schools in Oslo of Architecture and Design
 site_author: karamellpelle
-repo_url: https://github.com/aho-opensource/homepage
+#repo_url: https://github.com/aho-opensource/homepage
 repo_name: aho-opensource/homepage
 
 nav:
