@@ -43,20 +43,21 @@ div.language-text>pre>code
                                                  ░           
 ```
 
-> De fleste ved AHO vet at [Blender](https://www.blender.org/) er strålende software,
-> men kanskje ikke alle vet at Blender bare er ett av mange open source programmer?
+> De fleste ved AHO vet at [Blender](https://www.blender.org/) er et meget nyttig program,
+> men kanskje ikke alle vet at Blender bare er ett av mange open source prosjekter?
+> Og at open source ikke handler om å gi deg gratisprogrammer, men i stedet om å skape
+> design i fellesskap?
 
 ++++ HEI :) ++++
-Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. For å lese teksten i nettleseren kan du benytte "Developer mode"/"Inspect"/F12 til å deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
+Dersom du leser dette, har du antageligvis kopiert teksten og limt den inn et annet sted. 
+Du kan også benytte "Developer mode"/"Inspect"/F12 i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS :)
 ++++++++++++++++
 { .ahoquiz-hide-unless-copy }
 
-  > Nå skal vi utforske fler open source programmer! Husk store og små bokstaver når du setter sammen kodeordet
-  > som du bruker til å låse deg inn til løsningsordet.
+> Nå skal vi utforske fler open source programmer! Husk store og små bokstaver når du føyer sammen kodeordet.
+> Kodeordet bruker du til å låse opp ordet til AHOs påskequiz.
 
 <!---
-
-
 $$\   $$\ $$$$$$$$\ $$$$$$\           $$$\   
 $$ |  $$ |$$  _____|\_$$  _|           \$$\  
 $$ |  $$ |$$ |        $$ |        $$\   \$$\ 
@@ -69,13 +70,11 @@ $$ |  $$ |$$$$$$$$\ $$$$$$\       \__|$$$  /
                                              
                                              
 Om du leser dette avsnittet, leser du antageligvis HTML-koden til siden. 
-For å lese teksten i nettleseren kan du benytte "Developer mode"/"Inspect"/F12 i nettleseren til å 
-deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i nettleseren med normal font!
-
+Du kan også benytte "Developer mode"/"Inspect"/F12 i nettleseren til å deaktivere "font-family: hansgerhard !important" fra CSS :)
 -->
 
 
-## A (8 bokstaver)
+## A (hint: 8 bokstaver)
 
 > "_We would not dare to conceive the things which are really mere commonplaces of existence._"  
 >  \- Sherlock Holmes, 'A Case Of Identity'.  
@@ -83,16 +82,16 @@ deaktivere "font-family: hansgerhard !important" fra CSS. Da vil teksten vises i
 Du lar deg inspirere av påskekrimmen på TV og vil selv lage film. Du finner et videoredigeringsprogram og kommer raskt igang.
 
 
-## B (4 bokstaver)
+## B (hint: 4 bokstaver)
 
 <iframe width=600 height=450 src="./b.sozi.html" title="You see, but you do not observe. The distinction is clear. - Sherlock Holmes, 'The Sign of Four'">
     You see, but you do not observe. The distinction is clear. - Sherlock Holmes, 'The Sign of Four'
 </iframe>
 
-Påskeferie er en herlig en avslutning av prosjektuken. Presentasjonen gikk strålende siden du fant et enkelt program til å presentere prosjektet på en leken måte.
+Påskeferie ble en herlig en avslutning av prosjektuken. Presentasjonen gikk strålende siden du fant et program til å enkelt presentere prosjektet på en leken måte.
 
 
-## C (6 bokstaver)
+## C (hint: 6 bokstaver)
 
 > "_My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram, or the most intricate analysis, and I am in my own proper atmosphere._"  
 > \- Sherlock Holmes, 'The Sign of Four'.  
@@ -101,6 +100,6 @@ Innleveringen av en kjedelig, akademisk oppgave gjør at du må velge bypåske. 
 
 -----
 
-!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ `A + B + C`"
+!!! ahoquiz-door "{{ config.site_url }}ahoquiz/ `ABC`"
 
 
