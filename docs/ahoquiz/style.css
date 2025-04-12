@@ -84,9 +84,8 @@ blockquote
     font-weight: bold !important;
 }
 
-.md-sidebar__scrollwrap,
-.md-source,
-.md-header__source
+/*.md-sidebar__scrollwrap,*/
+.md-nav__list
 {
     display: none !important;
 }
