@@ -15,10 +15,10 @@ $ pip install -e libs/mkdocs-macros-plugin
 $ pip install -e libs/mkdocs-redirects
 ~~~
 
-Run [your local site](localhost:8000) during development/editing:
+Run [your local site](localhost:8000) during editing:
 
 ~~~bash
-$ # inside the above virtual environment:
+$ # inside the above virtual environment (`source source_me`):
 $ mkdocs serve -w docs/stylesheets -w overrides
 ~~~
 

@@ -36,3 +36,7 @@ World-class design for free to the general public. See also [:simple-github: Pap
 #### [BrickSource](https://bricksource.wordpress.com/)
 An online open-source database of parametric brickwork.
 
+
+## Other
+
+#### [P2PF Category:Housing](https://wiki.p2pfoundation.net/Category:Housing)

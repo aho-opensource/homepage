@@ -26,3 +26,5 @@ Creating an atlas of property ownership.
 
 #### [Open Systems Lab](https://www.opensystemslab.io/)
 A non-profit R&D lab working on new operating systems for society.
+
+#### [P2PF Category:Urbanism](https://wiki.p2pfoundation.net/Category:Urbanism)
