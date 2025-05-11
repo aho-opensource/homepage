@@ -14,6 +14,13 @@ tags:
 #### [Awesome Design](https://github.com/gztchan/awesome-design)
 Curated design resources from all over the world. 
 
+
+### 3D Printing
+
+#### [Design for 3D Printing](https://blog.rahix.de/design-for-3d-printing/)
+Well written article about 3D printing your designs.
+
+
 ### Laser Cutting
 
 #### [Boxes.py](https://boxes.hackerspace-bamberg.de/)
