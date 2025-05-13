@@ -110,6 +110,9 @@ CLI image format converter and editor.
 
 ## Video
 
+#### [VLC Media Player](https://www.videolan.org/vlc/)
+Media player that supports most video and audio formats.
+
 #### [Kdenlive](https://kdenlive.org/)
 Video editor software.
 
@@ -140,9 +143,6 @@ CLI with several options to create a grid of thumbnails from video.
 
 #### [Audacity](https://www.audacityteam.org/)
 Digital audio editor and recorder.
-
-#### [Ardour](https://ardour.org/)
-Digital audio workstation.
 
 #### [LMMS](https://lmms.io/)
 Digital audio workstation.
@@ -199,6 +199,8 @@ CLI configurable data sampler and visualizer.
 #### [Git](https://git-scm.com/book/)
 The de facto version control system. 
 
+#### [GitHub Desktop](https://github.com/apps/desktop)
+GUI to simplify Git workflows on GitHub.
 
 ## Productivity
 
