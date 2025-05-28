@@ -79,6 +79,9 @@ Meshing and sculpting 3D-modeller software.
 Vector graphics editor with bitmap tracing, path effects, filters and generator extensions (QR codes, charts, plots, calendars, etc.). 
 {{ resource( "inkscape" ) }}
 
+#### [Graphite](https://graphite.rs/)
+2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. 
+
 #### [Krita](https://krita.org/)
 Raster graphics drawing editor with good graphics table support and G'MIC filters.
 
