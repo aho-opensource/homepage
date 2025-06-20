@@ -14,6 +14,9 @@ tags:
 #### [Awesome Design](https://github.com/gztchan/awesome-design)
 Curated design resources from all over the world. 
 
+#### [507 Mechanical Movements](https://507movements.com/)
+An online edition of the classic technical reference _Five Hundred and Seven Mechanical Movements_ by _Henry T. Brown_.
+
 
 ### 3D Printing
 
